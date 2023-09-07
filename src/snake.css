@@ -1,0 +1,9 @@
+.snake {
+    position: absolute;
+    width: 2%;
+    height: 2%;
+    background-color: #673AB7;
+    border: 1px solid #f8c246;
+    z-index: 2;
+    border-radius: 30%;
+  }
